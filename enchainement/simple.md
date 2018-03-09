@@ -24,7 +24,7 @@ Déplacement portillon
 Sortie tourniquet
 Fermeture simple
 
-Toupie
+Tourne Tourne
 -------------------
 
 Ouverture sous le bras
@@ -60,4 +60,49 @@ Marie haut danseuse
 Titanic
 Fermeture
 
+
+Échauffement
+------------
+
+Ouverture sous le bras
+Déplacement
+Alémana
+Passage dans le dos
+Passage sous le bras
+Spin
+Fermeture simple
+
+Ouverture sous le bras
+Spin changement de main
+Mise à la hanche
+Balade
+Balade
+Sortie tenue
+Déplacement
+Marguerite
+Spin
+Fermeture simple
+
+Ouverture danseur
+Déplacement
+Dépacement changement de main
+Mise à l'épaule
+Sortie tenue
+Caresse décroisée
+Espagnole danseuse
+Enroulé
+Déroulé laché
+Déplacement appel
+Fermeture simple
+
+Valse
+Ouverture sous le bras
+Déplacement
+Déplacement deuxième main
+Enroulé
+Déroulé tenu
+Pizza
+Déboulé
+Passage dans le dos
+Fermeture cool
 

@@ -215,14 +215,14 @@ Description : Déplacement. 4 coupe la ligne de la danseuse. 5 et 6 danseuse sou
 Remarques : Trop classe mais attention à la tête
 
 
-Nom : 
-Position départ : 
-Position finale : 
-Difficultée : 
+Nom : Rapprochement
+Position départ : Une main simple
+Position finale : Collé
+Difficultée : 1
 Variantes :
 Astuces : 
 Passes similaires : 
 Noms alternatifs : 
-Description :
+Description : Comme un déplacement mais le danseur reste sur place. On va chercher la hanche droite de la danseuse avec la main droite. La main gauche tient la main droite danseuse en position solide.
 Remarques :
 

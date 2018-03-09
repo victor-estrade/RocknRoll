@@ -78,3 +78,7 @@ Noms alternatifs : Espagnol garçon
 Description :
 Remarques : 
 
+Nom : Collé
+Noms alternatifs :
+Description : Main gauche-droite en position solide. Main droite tenant solidement la taille (là où c'est dur). 
+Remarques : Pour les passes portées

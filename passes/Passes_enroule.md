@@ -24,12 +24,13 @@ Noms alternatifs :
 Description : 
 Remarques : 
 
+
 Nom : Déroulé sexy
 Position départ : Enroulé
 Position finale : Dos
 Difficultée : 2
 Variantes :
-Astuces : 
+Astuces : à enchainer avec un Dos en avant.
 Passes similaires : 
 Noms alternatifs : 
 Description : Déroulé tenu, demi tour danseur, caresse gauche, caresse droite.

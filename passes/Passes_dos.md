@@ -9,7 +9,7 @@ Variantes :
 Astuces : 
 Passes similaires : 
 Noms alternatifs : 
-Description :
+Description : Le danseur lache la main de la danseuse ou l'amène dans son dos. Attendre que la danseuse pousse sur un 4. Demi tour danseur et tour complet danseuse. Reprise une main simple.
 Remarques : Attendre le signal de la danseuse sur le 4.
 
 
@@ -33,10 +33,10 @@ Variantes :
 Astuces : 
 Passes similaires : 
 Noms alternatifs : 
-Description :
+Description : On continue de tourner autour de la danseuse. 1 2 on se place sur la droite de la danseuse. 3 et on passe le bras dans le dos de la danseuse. 4 on ramène la danseuse dans notre bras droit. 5 et 6 on stabilise.
 Remarques :
 
-Nom : 
+Nom : Dos en avant
 Position départ : Dos
 Position finale : Une main 
 Difficultée : 2

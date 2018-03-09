@@ -32,6 +32,7 @@ Déplacement tombé final
 Passage dans le dos
 Fermeture simple
 Triple Dunck tombé
+Rapprochement
 
 
 Une main croisé
@@ -94,7 +95,7 @@ Enroulé en déplacement
 Espagnol danseur
 ================
 
-No_name
+Dos à dos enroulé
 
 
 Enroulé
@@ -102,6 +103,7 @@ Enroulé
 
 Déroulé laché
 Déroulé tenu
+Déroulé sexy
 Tombé simple
 
 
@@ -115,6 +117,7 @@ Marie haut danseuse
 Spin
 American Spin
 Titanic
+Caresse décroisée
 
 
 À la hanche
@@ -127,6 +130,7 @@ Sortie tenue
 Demi-belote lachée
 Demi-belote tenue
 Coup d'épée
+Illusion
 
 
 À l'épaule
