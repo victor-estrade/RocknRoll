@@ -95,7 +95,6 @@ Pizza jetée
 Pizza lachée
 Déplacement appel portillon
 Sortie coup d'épée
-Élastique lancé
 Enroulé
 Déroulé sexy
 Dos en avant
