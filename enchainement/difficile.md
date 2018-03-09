@@ -5,24 +5,24 @@ Difficiles
 17/02/2018
 ------------
 
-Ouverture suivie
-Ouverture sous le bras
-Déplacement
-Déplacement croche-pied
-Déplacement
-Triple duck tombé
+- Ouverture suivie
+- Ouverture sous le bras
+- Déplacement
+- Déplacement croche-pied
+- Déplacement
+- Triple duck tombé
 
 
 Final explosif
 ----------------
 
-Ouverture triplette
-Sortie tourniquet
-Déplacement
-Triple Dunck tombé
+- Ouverture triplette
+- Sortie tourniquet
+- Déplacement
+- Triple Dunck tombé
 
-Ouverture élastique
-Alémana
-Rapprochement
-Tombé crocheté
+- Ouverture élastique
+- Alémana
+- Rapprochement
+- Tombé crocheté
 
