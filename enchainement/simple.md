@@ -64,6 +64,7 @@ Restons ensemble
 Échauffement
 ------------
 
+1.
 - Ouverture sous le bras
 - Déplacement
 - Alémana
@@ -72,6 +73,7 @@ Restons ensemble
 - Spin
 - Fermeture simple
 
+2.
 - Ouverture sous le bras
 - Spin changement de main
 - Mise à la hanche
@@ -83,6 +85,7 @@ Restons ensemble
 - Spin
 - Fermeture simple
 
+3.
 - Ouverture danseur
 - Déplacement
 - Dépacement changement de main
@@ -95,6 +98,7 @@ Restons ensemble
 - Déplacement appel
 - Fermeture simple
 
+4.
 - Valse
 - Ouverture sous le bras
 - Déplacement
