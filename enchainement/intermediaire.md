@@ -65,6 +65,7 @@ Toupie
 On est chaud !
 --------------
 
+1.
 - Ouverture sous le bras
 - Déplacement portillon
 - Sortie coup d'épée
@@ -76,6 +77,7 @@ On est chaud !
 - Passage dans le dos
 - Fermeture cool
 
+2.
 - Ouverture sous le bras
 - Fermeture simple
 - Ouverture danseur
@@ -89,6 +91,7 @@ On est chaud !
 - Spin (danseur)
 - Fermeture simple
 
+3.
 - Ouverture triplette
 - Sortie coup d'épée
 - Pizza jetée
@@ -100,6 +103,7 @@ On est chaud !
 - Dos en avant
 - Fermeture simple
 
+4.
 - Ouverture suivie
 - Ouverture élastique
 - Déplacement deuxième main
@@ -110,6 +114,7 @@ On est chaud !
 - Double portillon
 - Fermeture simple
 
+5.
 - Valse
 - Valse
 - Ouverture triplette
@@ -121,6 +126,7 @@ On est chaud !
 - Dos en avant
 - Fermeture simple
 
+6.
 - Ouverture sous le bras
 - Passage dans le dos
 - Passage sous le bras
@@ -137,6 +143,7 @@ On est chaud !
 Grand final
 -----------------
 
+1.
 - Ouverture sous le bras
 - Déplacement croche pied
 - Déplacement deuxième main
@@ -145,6 +152,7 @@ Grand final
 - Dos en avant
 - Déplacement tombé final
 
+2.
 - Ouverture danseur
 - Déplacement
 - James danseur
