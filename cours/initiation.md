@@ -24,14 +24,14 @@ Organisation des Profs
 ======================
 
 - Un couple de démonstrateur (démon)
-- Les autres assistent les initiés (assist)
+- Les autres assitent les démons en guidant les initiés (guide)
 
 Les démons rythment le cours, montrent les passes en détails comme les profs en cours.
 Les démons font les passent en même temps que les initiés ? Ou se contentent de compter les pas ? 
 
-Les assists se dispersent parmis les initiés pour pouvoir les guider, répondre aux questions ou remontrer les passes.
-C'est important si ils sont nombreux qu'ils se sentent pas noyés dans la masse, donc il faut que les assists prennent le relai auprès des initiés dès que les démons ont fini.
-Les assists doivent corriger les défauts des initiés s'ils les repèrent. Les démons sont trop loin et ne peuvent pas s'occuper de tout le monde.
+Les guides se dispersent parmis les initiés pour pouvoir répondre aux questions ou remontrer les passes.
+C'est important si ils sont nombreux qu'ils se sentent pas noyés dans la masse, donc il faut que les guides prennent le relai auprès des initiés dès que les démons ont fini la démonstration.
+Les guides doivent corriger les défauts des initiés s'ils les repèrent. Les démons sont trop loin et ne peuvent pas s'occuper de tout le monde.
 
 
 Placement des couples
@@ -40,13 +40,13 @@ Placement des couples
 - Si pas trop nombreux 
 	- faire un cercle ou un grand rectangle
 	- les démonstrateurs se placent au milieu
-	- les assistants se dispersent dans le cercle
+	- les guides se dispersent dans le cercle
 
 - Si très nombreux
 	- Faire 3 lignes
-	- Décider d'une rotation des danseurs pas casse gueule (bon courage !)
+	- Décider d'une rotation des danseurs pas trop casse gueule (bon courage !)
 	- les démonstrateurs se placent sur la scène
-	- les assistants se dispersent dans les 3 lignes
+	- les guides se dispersent dans les 3 lignes
 
 
 
@@ -55,7 +55,7 @@ Pendant la soirée
 
 - DJ : éviter les blancs (choisir la musique suivante dès le début de l'actuelle !)
 - DJ : surtout ne pas couper la musique lorsqu'elle a commencé même si c'est une erreur car c'est frustrant pour les danseurs !
+- Bar : 3 marqueurs pour écrire les noms sur les gobelets
 - Caser un Madison dans la soirée reste une idée géniale (merci Antoine)
-- 3 Marqueurs pour écrire les noms sur les gobelets
 
 
