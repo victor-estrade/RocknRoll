@@ -16,11 +16,13 @@ Difficiles
 Final explosif
 ----------------
 
+1.
 - Ouverture triplette
 - Sortie tourniquet
 - Déplacement
 - Triple Dunck tombé
 
+2.
 - Ouverture élastique
 - Alémana
 - Rapprochement

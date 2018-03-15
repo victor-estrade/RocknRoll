@@ -46,15 +46,15 @@ Description :
 Remarques :
 
 
-Nom : 
-Position départ : 
-Position finale : 
-Difficultée : 
+Nom : Passage dans le dos
+Position départ : Une main croisé
+Position finale : Dos
+Difficultée : 1
 Variantes :
 Astuces : 
 Passes similaires : 
 Noms alternatifs : 
-Description :
+Description : 
 Remarques :
 
 

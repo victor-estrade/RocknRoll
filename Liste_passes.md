@@ -42,6 +42,7 @@ Une main croisé
 - Spin garder la main
 - Mise à la hanche
 - Mise à l'épaule
+- Passage dans le dos
 
 
 Une main opposé
