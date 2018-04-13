@@ -6,9 +6,12 @@ Fermé
 - Ouverture sous le bras
 - Ouverture danseur
 - Ouverture hésitation
+- Ouverture doublette
 - Ouverture triplette
+- Ouverture demi-élastique
 - Ouverture élastique
 - Ouverture suivie
+- Ouverture tango
 
 
 Une main simple
@@ -43,6 +46,7 @@ Une main croisé
 - Mise à la hanche
 - Mise à l'épaule
 - Passage dans le dos
+- Passage dans le dos doublette
 
 
 Une main opposé
@@ -69,9 +73,10 @@ Portillon
 =========
 
 - Sortie tourniquet
+- Sortie portillon
+- Sortie grand pont
 - Double portillon
-- Sortie enroulé
-- Sortie coup d'épée
+- Sortie enroulée
 
 
 Deux mains simple
@@ -119,6 +124,7 @@ Deux mains croisé
 - American Spin
 - Titanic
 - Caresse décroisée
+- Double caresse
 
 
 À la hanche
@@ -147,6 +153,7 @@ Deux mains croisé
 - Sombrero
 - Sortie suivie
 - Illusion
+- Sortie double caresse
 
 
 Armé

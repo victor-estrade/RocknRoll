@@ -9,9 +9,9 @@ Super
 - Sortie enroulé
 - Devant derrière laché
 - Déplacement deuxième main
-- Espagnole en déplacement
-- Enroulé en déplacement
-- Déroulé sexy
+- Mise à l'épaule
+- Sortie tenue
+- Double caresse
 - Dos en avant
 - Fermeture simple
 
@@ -93,14 +93,11 @@ On est chaud !
 
 3.
 - Ouverture triplette
-- Sortie coup d'épée
+- Sortie grand pont
 - Pizza jetée
 - Pizza lachée
 - Déplacement appel portillon
-- Sortie coup d'épée
-- Enroulé
-- Déroulé sexy
-- Dos en avant
+- Sortie tourniquet
 - Fermeture simple
 
 4.
@@ -122,8 +119,8 @@ On est chaud !
 - Déplacement deuxième main
 - Espagnole en déplacement
 - Enroulé en déplacement
-- Déroulé sexy
-- Dos en avant
+- Marie haut danseuse
+- Déplacement sous le bras
 - Fermeture simple
 
 6.
@@ -146,15 +143,10 @@ Grand final
 1.
 - Ouverture sous le bras
 - Déplacement croche pied
-- Déplacement deuxième main
-- Enroulé
-- Déroulé sexy
-- Dos en avant
 - Déplacement tombé final
 
 2.
 - Ouverture danseur
-- Déplacement
 - James danseur
 - Mise à l'épaule
 - Sortie suivie

@@ -120,3 +120,15 @@ Noms alternatifs :
 Description :
 Remarques :
 
+
+Nom : Sortie double caresse
+Position départ : À l'épaule
+Position finale : Dos
+Difficultée : 2
+Variantes :
+Astuces : à enchainer avec un Dos en avant.
+Passes similaires : 
+Noms alternatifs : 
+Description : Sortie tenue, demi tour danseur, caresse gauche, caresse droite.
+Remarques : 
+

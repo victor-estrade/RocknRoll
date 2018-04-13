@@ -25,18 +25,6 @@ Description :
 Remarques : 
 
 
-Nom : Déroulé sexy
-Position départ : Enroulé
-Position finale : Dos
-Difficultée : 2
-Variantes :
-Astuces : à enchainer avec un Dos en avant.
-Passes similaires : 
-Noms alternatifs : 
-Description : Déroulé tenu, demi tour danseur, caresse gauche, caresse droite.
-Remarques : 
-
-
 Nom : Tombé simple
 Position départ : Enroulé
 Position finale : Enroulé
