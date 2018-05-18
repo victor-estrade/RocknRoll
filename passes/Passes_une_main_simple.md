@@ -155,6 +155,17 @@ Noms alternatifs :
 Description : 1 2 **et** 3-Flexion, et-extension, 4-flexion 5 et 6
 Remarques :
 
+Nom : Déplacement élastique
+Position départ : Une main simple
+Position finale : Une main simple
+Difficultée : 3
+Variantes :
+Astuces : 
+Passes similaires : 
+Noms alternatifs : 
+Description : déplacement standard mais sur le "3 et" le danseur a traverse la ligne de danse. 4 renvoie la danseuse dans l'autre sens. 5 et 6 faire tourner la danseuse.
+Remarques :
+
 Nom : James danseur
 Position départ : Une main simple
 Position finale : Une main croisé
@@ -171,7 +182,7 @@ Nom : Déplacement tombé
 Position départ : Une main simple
 Position finale : Tombé
 Difficultée : 1
-Variantes : 
+Variantes : faire 2 tours à la danseuse
 Astuces : 
 Passes similaires : 
 Noms alternatifs : 

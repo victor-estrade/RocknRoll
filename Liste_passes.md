@@ -30,6 +30,7 @@ Une main simple
 - Déplacement deuxième main
 - Déplacement portillon
 - Déplacement croche-pied
+- Déplacement élastique
 - James danseur
 - Déplacement tombé final
 - Passage dans le dos
@@ -79,15 +80,17 @@ Portillon
 - Sortie enroulée
 
 
-Deux mains simple
-=================
+Deux mains simples
+==================
 
 - Espagnol
 - Espagnol en déplacement
+- Espagnol danseur
 - Élastique
 - Élastique lancé
 - Marie haut danseur
 - Marie haut danseuse
+- Pizza lachée
 - Pizza jetée
 
 
@@ -113,8 +116,8 @@ Enroulé
 - Tombé simple
 
 
-Deux mains croisé
-=================
+Deux mains croisées
+===================
 
 - Déplacement
 - Marguerite

@@ -58,3 +58,14 @@ Description :
 Remarques :
 
 
+Nom : Passage dans le dos doublette
+Position départ : Une main croisé
+Position finale : Dos
+Difficultée : 2
+Variantes :
+Astuces : 
+Passes similaires : 
+Noms alternatifs : 
+Description : Passage dans le dos mais avec 2 tours.
+Remarques :
+
